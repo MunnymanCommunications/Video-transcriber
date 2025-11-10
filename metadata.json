@@ -1,0 +1,5 @@
+{
+  "name": "Video Transcriber AI",
+  "description": "Upload a video file to generate a full transcription using the Gemini API. You can then easily copy or share the transcribed text.",
+  "requestFramePermissions": []
+}
